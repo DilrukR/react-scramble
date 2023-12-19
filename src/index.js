@@ -117,7 +117,7 @@ const TextScramble = ({
   }, [currentText, paused]);
 
   return (
-    <div className='container'>
+    <div style={{ position: "relative" }}>
       <p>{displayedText}</p>
     </div>
   );

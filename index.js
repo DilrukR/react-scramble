@@ -128,7 +128,10 @@ var TextScramble = function TextScramble(_ref) {
     };
   }, [currentText, paused]);
   return /*#__PURE__*/_react["default"].createElement("div", {
-    className: "container"
+    className: "container",
+    style: {
+      position: "relative"
+    }
   }, /*#__PURE__*/_react["default"].createElement("p", null, displayedText));
 };
 var _default = exports["default"] = TextScramble;
