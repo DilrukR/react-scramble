@@ -1,0 +1,28 @@
+{
+  "name": "@dilrukr/react-text-scramble",
+  "version": "1.0.0",
+  "description": "Simple react scramble animation",
+  "main": "/build/index.js",
+  "scripts": {
+    "build": "babel src --out-file build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilrukR/react-scramble.git"
+  },
+  "author": "Rishan Dilruk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DilrukR/react-scramble/issues"
+  },
+  "homepage": "https://github.com/DilrukR/react-scramble#readme",
+  "dependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "@babel/preset-react": "^7.23.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
