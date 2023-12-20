@@ -11,5 +11,5 @@ TextScramble is a React component that animates text by gradually revealing it t
 Install TextScramble via npm:
 
 ```bash
-npm install your-package-name
+npm install @dilrukr/react-text-scramble
 
