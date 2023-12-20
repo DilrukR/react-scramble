@@ -6,6 +6,8 @@
 
 TextScramble is a React component that animates text by gradually revealing it through a scrambled effect.
 
+https://github.com/DilrukR/react-scramble/assets/68820399/702acd2e-116f-41c3-a63f-cb0d896a8a06
+
 ## Installation
 
 Install TextScramble via npm:
