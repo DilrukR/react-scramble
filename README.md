@@ -12,4 +12,4 @@ Install TextScramble via npm:
 
 ```bash
 npm install @dilrukr/react-text-scramble
-
+```
