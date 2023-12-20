@@ -13,3 +13,23 @@ Install TextScramble via npm:
 ```bash
 npm install @dilrukr/react-text-scramble
 ```
+## Example Code
+
+```bash
+import React from 'react';
+import TextScramble from '@dilrukr/react-text-scramble';
+
+const YourComponent = () => {
+  return (
+    <div>
+      <h1>Welcome to TextScramble!</h1>
+      <TextScramble
+        texts={['Hello', 'World']}
+        // Other props...
+      />
+    </div>
+  );
+};
+
+export default YourComponent;
+```
