@@ -6,6 +6,7 @@
 
 TextScramble is a React component that animates text by gradually revealing it through a scrambled effect.
 
+
 https://github.com/DilrukR/react-scramble/assets/68820399/702acd2e-116f-41c3-a63f-cb0d896a8a06
 
 ## Installation
@@ -61,7 +62,7 @@ export default YourComponent;
 ```bash
 <TextScramble texts={["Hello", "World"]} letterSpeed={20} />
 ```
-##
+## Custom Styling
 
 ```bash
 <TextScramble
@@ -71,4 +72,27 @@ export default YourComponent;
   containerStyle={{ border: '1px solid black', padding: '10px' }}
 />
 ```
+## Contributing
+
+Contributions to the TextScramble component are welcome! To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`.
+3. Implement your changes and commit them: `git commit -am 'Add new feature'`.
+4. Push to the branch: `git push origin my-feature`.
+5. Submit a pull request detailing your changes.
+
+Feel free to open issues on the [GitHub repository](https://github.com/DilrukR/react-scramble) for feature requests, bug reports, or general feedback.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+
+## Follow Me On
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_github_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilrukr/)
+
+Feel free to connect with me on Twitter, GitHub, and LinkedIn!
 
